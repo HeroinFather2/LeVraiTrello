@@ -1,0 +1,77 @@
+
+
+h3{
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+.acc-btn{
+  margin: auto;
+  display: block;
+  margin-top: 5%;
+}
+
+.background{
+  background-attachment: fixed;
+  background-image: url("img11.png");
+  background-size: 100%;
+  background-repeat: repeat;
+  height: 60vw;
+}
+.Bienvenue{
+  color: white;
+}
+
+.logo{
+  width: 150px;
+  display: block;
+  margin: auto;
+}
+.i{
+  width: 30px;
+  display: block;
+  float: right;
+}
+.add{
+  width: 30px;
+}
+.button-creation{
+margin-left: 10%;
+}
+.imgIntro{
+  width: 30%;
+}
+.jumbotron{
+  display: block;
+  margin: auto;
+}
+.carousel-item {
+  width:40% ;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.opacity-half{
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 30px;
+  margin-top: 160px;
+  margin: auto;
+}
+.picintro{
+  width: 300px;
+}
+.opacity2{
+  background-color: black;
+  color: white;
+}
+.formulaire{
+  display: block;
+  margin: auto;
+}
+.page-footer{
+  background-color: lightgrey;
+}
+.footer2{
+  width: 50px;
+}

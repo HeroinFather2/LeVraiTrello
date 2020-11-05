@@ -1,0 +1,8 @@
+      <div class="row">
+        <div class="col-6">
+          <img class="logo" src="Lostreefinal.png" alt="">
+        </div>
+        <div class="col-6">
+          <img class="i" src="information.png" alt="">
+        </div>
+      </div>
